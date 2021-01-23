@@ -1,5 +1,6 @@
 # wsl
 
+[Adding another wsl distro](https://superuser.com/questions/1515246/how-to-add-second-wsl2-ubuntu-distro-fresh-install/1515275#1515275)
 
 [https://cloud-images.ubuntu.com/releases/eoan/release/ubuntu-19.10-server-cloudimg-amd64-wsl.rootfs.tar.gz](https://cloud-images.ubuntu.com/releases/eoan/release/ubuntu-19.10-server-cloudimg-amd64-wsl.rootfs.tar.gz)
 
